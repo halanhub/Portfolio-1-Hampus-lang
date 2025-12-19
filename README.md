@@ -29,7 +29,6 @@ The purpose of this project is to present my work to potential employers and col
 * **HTML5** – semantic markup
 * **CSS3** – custom styling and layout
 * **JavaScript (ES6+)** – basic interactivity
-* **Netlify** – deployment
 * **GitHub** – version control
 * **Figma** – design and mockups
 
